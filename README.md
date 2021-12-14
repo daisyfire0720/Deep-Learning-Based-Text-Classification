@@ -1,6 +1,6 @@
 # Deep-Learning-Based-Text-Classification
 
-Applies different deep learning based classification models to consumer complaint data:
+Implemented different deep learning based text classification models to consumer complaint data (https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data):
 1) CNN model
 2) RNN with LSTM model
 3) CNN with RNF model (https://arxiv.org/abs/1808.09315)
